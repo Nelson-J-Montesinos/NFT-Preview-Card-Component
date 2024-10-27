@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-component-dOJz7cucEE)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://nelson-j-montesinos.github.io/NFT-Preview-Card-Component/)
 
 ## My process
 
